@@ -15,10 +15,11 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://mdarikrayhan.github.io/JsDragon/)
-[![website](./img/globe-dark.svg)](https://mdarikrayhan.github.io/JsDragon/)
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCjzaUZJegsE-H4AZdA71c0w)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCjzaUZJegsE-H4AZdA71c0w)
+[![website](./img/globe-light.svg)](https://mdarikrayhan.github.io/JsDragon/#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://mdarikrayhan.github.io/JsDragon/#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCjzaUZJegsE-H4AZdA71c0w#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCjzaUZJegsE-H4AZdA71c0w#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/mdarikrayhan#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/mdarikrayhan#gh-dark-mode-only)
