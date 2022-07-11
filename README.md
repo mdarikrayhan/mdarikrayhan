@@ -36,13 +36,16 @@
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdarikrayhan&theme=light&layout=compact&align=right&width=40%)](https://github.com/mdarikrayhan/github-readme-stats)
 <!--  CONTRIBUTION AND STREAK BLOCK -->
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mdarikrayhan&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=light)](https://git.io/streak-stats)
+
+
+<img align="left" alt="Md Arik Rayhan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mdarikrayhan&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+
+
  <!-- ACTIVITY GRAPH TRACKER -->
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=mdarikrayhan&theme=react-dark)](https://github.com/mdarikrayhan/github-readme-activity-graph)
 
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
-  
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/codeSTACKr
