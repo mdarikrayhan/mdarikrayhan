@@ -17,7 +17,6 @@
 
 [![website](./img/globe-light.svg)](https://mdarikrayhan.github.io/JsDragon/)
 [![website](./img/globe-dark.svg)](https://mdarikrayhan.github.io/JsDragon/)
-&nbsp;&nbsp;
 [![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCjzaUZJegsE-H4AZdA71c0w)
 [![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCjzaUZJegsE-H4AZdA71c0w)
 &nbsp;&nbsp;
