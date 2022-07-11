@@ -1,7 +1,7 @@
 # Hi there, I'm Arik 👋 
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCjzaUZJegsE-H4AZdA71c0w?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
+[![Website](https://img.shields.io/website?label=JsDragon&style=for-the-badge&url=https%3A%2F%2FJsDragon)](https://mdarikrayhan.github.io/JsDragon)
 [![Twitter Follow](https://img.shields.io/twitter/follow/mdarikrayhan?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmdarikrayhan&screen_name=mdarikrayhan)
 
 
@@ -64,7 +64,7 @@
 
 
 
-[website]: https://codeSTACKr.com
+[website]: https://mdarikrayhan.github.io/JsDragon/
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/mdarikrayhan
 [youtube]: https://www.youtube.com/channel/UCjzaUZJegsE-H4AZdA71c0w
