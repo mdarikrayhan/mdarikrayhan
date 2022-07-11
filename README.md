@@ -14,5 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ <!-- ACTIVITY GRAPH TRACKER -->
+[![activity graph](https://activity-graph.herokuapp.com/graph?username=mdarikrayhan&theme=react-dark)](https://github.com/mdarikrayhan/github-readme-activity-graph)
  <!--  TOP LANGUAGES STATISTICS -->
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdarikrayhan&theme=dark&layout=compact&align=right&width=40%)](https://github.com/mdarikrayhan/github-readme-stats)
