@@ -65,11 +65,10 @@
 
 
 [website]: https://mdarikrayhan.github.io/JsDragon/
-[course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/mdarikrayhan
 [youtube]: https://www.youtube.com/channel/UCjzaUZJegsE-H4AZdA71c0w
 [instagram]: https://instagram.com/mdarikrayhan
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[linkedin]: https://linkedin.com/in/mdarikrayhan
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
