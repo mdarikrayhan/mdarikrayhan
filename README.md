@@ -56,6 +56,8 @@
 
 <br />
 <br />
+
+
  <!--  TOP LANGUAGES STATISTICS -->
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdarikrayhan&theme=light&layout=compact&align=right&width=40%)](https://github.com/mdarikrayhan/github-readme-stats)
 <!--  CONTRIBUTION AND STREAK BLOCK -->
