@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ <!--  TOP LANGUAGES STATISTICS -->
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdarikrayhan&theme=light&layout=compact&align=right&width=40%)](https://github.com/mdarikrayhan/github-readme-stats)
 <!--  CONTRIBUTION AND STREAK BLOCK -->
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mdarikrayhan&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=light)](https://git.io/streak-stats)
  <!-- ACTIVITY GRAPH TRACKER -->
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=mdarikrayhan&theme=react-dark)](https://github.com/mdarikrayhan/github-readme-activity-graph)
- <!--  TOP LANGUAGES STATISTICS -->
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdarikrayhan&theme=light&layout=compact&align=right&width=40%)](https://github.com/mdarikrayhan/github-readme-stats)
