@@ -38,3 +38,14 @@
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mdarikrayhan&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=light)](https://git.io/streak-stats)
  <!-- ACTIVITY GRAPH TRACKER -->
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=mdarikrayhan&theme=react-dark)](https://github.com/mdarikrayhan/github-readme-activity-graph)
+
+[website]: https://codeSTACKr.com
+[course]: http://vsCodeHero.com
+[twitter]: https://twitter.com/codeSTACKr
+[youtube]: https://youtube.com/codeSTACKr
+[instagram]: https://instagram.com/codeSTACKr
+[linkedin]: https://linkedin.com/in/codeSTACKr
+[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
+[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
+[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
+[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
