@@ -1,3 +1,4 @@
+![Profile views](https://gpvc.arturio.dev/mdarikrayhan)
 # Hi there, I'm Arik 👋 
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCjzaUZJegsE-H4AZdA71c0w?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
@@ -62,7 +63,7 @@
  <!-- ACTIVITY GRAPH TRACKER -->
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=mdarikrayhan&theme=react-dark)](https://github.com/mdarikrayhan/github-readme-activity-graph)
 
-![Profile views](https://gpvc.arturio.dev/mdarikrayhan)
+
 
 [website]: https://mdarikrayhan.github.io/JsDragon/
 [twitter]: https://twitter.com/mdarikrayhan
