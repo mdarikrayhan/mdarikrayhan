@@ -62,7 +62,7 @@
  <!-- ACTIVITY GRAPH TRACKER -->
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=mdarikrayhan&theme=react-dark)](https://github.com/mdarikrayhan/github-readme-activity-graph)
 
-
+![Profile views](https://gpvc.arturio.dev/mdarikrayhan)
 
 [website]: https://mdarikrayhan.github.io/JsDragon/
 [twitter]: https://twitter.com/mdarikrayhan
