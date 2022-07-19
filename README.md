@@ -9,7 +9,7 @@
 
 ## I'm a Competitive Programmer and Developer !!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other
 - 🥅 2022 Goals: Learn more about web3
 - ⚡ Fun fact: I love to play chess
