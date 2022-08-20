@@ -2,7 +2,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/mdarikrayhan)
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCjzaUZJegsE-H4AZdA71c0w?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
-[![Website](https://img.shields.io/website?label=JsDragon&style=for-the-badge&url=https%3A%2F%2FJsDragon)](https://mdarikrayhan.github.io/JsDragon)
+[![Website](https://img.shields.io/website?label=JsDragon&style=for-the-badge&url=https%3A%2F%2FJsDragon)](https://mdarikrayhan.github.io/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/mdarikrayhan?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmdarikrayhan&screen_name=mdarikrayhan)
 
 
@@ -16,8 +16,8 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://mdarikrayhan.github.io/JsDragon/#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://mdarikrayhan.github.io/JsDragon/#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://mdarikrayhan.github.io/#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://mdarikrayhan.github.io/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCjzaUZJegsE-H4AZdA71c0w#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCjzaUZJegsE-H4AZdA71c0w#gh-dark-mode-only)
@@ -65,7 +65,7 @@
 
 
 
-[website]: https://mdarikrayhan.github.io/JsDragon/
+[website]: https://mdarikrayhan.github.io/
 [twitter]: https://twitter.com/mdarikrayhan
 [youtube]: https://www.youtube.com/channel/UCjzaUZJegsE-H4AZdA71c0w
 [instagram]: https://instagram.com/mdarikrayhan
