@@ -1,4 +1,3 @@
-- 🤝 I'm looking for help with **Data Structures, Algorithms, Software Development, and Career Guidance**ter">Hi 👋, I'm Md. Arik Rayhan</h1>
 <h3 align="center">A passionate Competitive Programmer, Software Developer, and Problem Setter from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdarikrayhan&label=Profile%20views&color=0e75b6&style=flat" alt="mdarikrayhan" /> </p>
