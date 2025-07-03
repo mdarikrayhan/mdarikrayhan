@@ -1,9 +1,3 @@
-<h1 ali- 🔭 I'm currently working on **Software Engineering, AI/ML Projects, and Competitive Programming**
-
-- 🌱 I'm currently learning **Machine Learning, Deep Learning, Advanced Algorithms, and System Design**
-
-- 👯 I'm looking to collaborate on **Open Source Projects, Competitive Programming, and AI/ML Research**
-
 - 🤝 I'm looking for help with **Data Structures, Algorithms, Software Development, and Career Guidance**ter">Hi 👋, I'm Md. Arik Rayhan</h1>
 <h3 align="center">A passionate Competitive Programmer, Software Developer, and Problem Setter from Bangladesh</h3>
 
@@ -13,7 +7,7 @@
 
 - 🔭 I’m currently working on [Competitive Programming](https://github.com/mdarikrayhan/Competitive-Programming)
 
-- 🌱 I’m currently learning **C# and .NET Core**
+- 🌱 I’m currently learning **Php and Laravel**
 
 - 👯 I’m looking to collaborate on [Digital Image Processing](https://github.com/mdarikrayhan/Digital-Image-Processing)
 
