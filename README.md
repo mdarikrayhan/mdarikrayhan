@@ -1,6 +1,6 @@
 <h3 align="center">A passionate Competitive Programmer, Software Developer, and Problem Setter from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdarikrayhan&label=Profile%20views&color=0e75b6&style=flat" alt="mdarikrayhan" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mdarikrayhan&label=Profile%20views&color=0e75b6&style=flat" alt="mdarikrayhan" /> </p>
 
 - 🔭 I’m currently working on [Competitive Programming](https://github.com/mdarikrayhan/Competitive-Programming)
 
