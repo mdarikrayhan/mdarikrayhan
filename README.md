@@ -1,10 +1,10 @@
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mdarikrayhan&label=Profile%20views&color=0e75b6&style=flat" alt="mdarikrayhan" /> </p>
 <h3 align="center">A passionate Competitive Programmer, Software Developer, and Problem Setter from Bangladesh</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mdarikrayhan&label=Profile%20views&color=0e75b6&style=flat" alt="mdarikrayhan" /> </p>
 
 - 🔭 I’m currently working on [Competitive Programming](https://github.com/mdarikrayhan/Competitive-Programming)
 
-- 🌱 I’m currently learning **Php and Laravel**
+- 🌱 I’m currently learning **PHP and Laravel**
 
 - 👯 I’m looking to collaborate on [Digital Image Processing](https://github.com/mdarikrayhan/Digital-Image-Processing)
 
@@ -17,8 +17,6 @@
 - 💬 Ask me about **Competitive Programming, Software Development, Problem Solving, ICPC, and Tech Career Guidance**
 
 - 📫 How to reach me **mdarikrayhan@gmail.com**
-
-- 📄 Know about my experiences [Md. Arik Rayhan](https://drive.google.com/file/d/1IaCRFLWDNg9eih_NNMeTgAVMw-eLjYrf)
 
 - ⚡ Fun fact **I like to play chess and have been a problem setter for programming contests**
 
