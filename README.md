@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mdarikrayhan&label=Profile%20views&color=0e75b6&style=flat" alt="mdarikrayhan" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mdarikrayhan&label=Profile%20views&color=0e75b6&style=flat" alt="mdarikrayhan" /> <a href="https://wakatime.com/@87049b36-0c74-484c-89b2-1749731b9b0d"><img src="https://wakatime.com/badge/user/87049b36-0c74-484c-89b2-1749731b9b0d.svg" alt="Total time coded since Nov 26 2025" /></a> </p>
 <h3 align="center">A passionate Competitive Programmer, Software Developer, and Problem Setter from Bangladesh</h3>
 
 
