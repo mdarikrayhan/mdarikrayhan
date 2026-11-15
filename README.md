@@ -23,7 +23,7 @@
 | 2nd year, 1st semester | CSE-2104 Data Structures and Algorithms-I Sessional | [COVID-Vaccine-Management](https://github.com/mdarikrayhan/COVID-Vaccine-Management) |
 | 2nd year, 2nd semester | CSE-2212 Database Management Systems Sessional | [Library-Management-System](https://github.com/mdarikrayhan/Library-Management-System) |
 | 2nd year, 2nd semester | CSE-2214 Data Structures and Algorithms-II Sessional | [Path-Finder](https://github.com/mdarikrayhan/Path-Finder) |
-| 2nd year, 2nd semester | CSE-2218 Advanced Programming Sessional | [E-Tailor](https://github.com/mdarikrayhan/E-Tailor) |
+| 2nd year, 2nd semester | CSE-2218 Advanced Programming Sessional | [Basic-GUI-Calculator](https://github.com/mdarikrayhan/Basic-GUI-Calculator), [E-Tailor](https://github.com/mdarikrayhan/E-Tailor) |
 | 3rd year, 1st semester | CSE-3102 Numerical Analysis Sessional | [Numerical-Analysis-Sessional](https://github.com/mdarikrayhan/Numerical-Analysis-Sessional) |
 | 3rd year, 1st semester | CSE-3104 Software Engineering and Information System Design Sessional | [BAUET-Result-System](https://github.com/mdarikrayhan/BAUET-Result-System) |
 | 3rd year, 1st semester | CSE-3106 Data and Telecommunication Sessional | [Data-and-Telecommunication-Sessional](https://github.com/mdarikrayhan/Data-and-Telecommunication-Sessional) |
