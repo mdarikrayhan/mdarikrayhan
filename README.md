@@ -14,6 +14,33 @@
 
 - ⚡ Fun fact **I play chess, and the bot on my site plays my own openings, learned from my games**
 
+<details>
+<summary><b>📚 B.Sc. coursework at BAUET, by semester</b></summary>
+
+| Semester | Course | Repository |
+| --- | --- | --- |
+| 1st year, 2nd semester | CSE-1214 Structured Programming Sessional | [Student-Management-System-In-C](https://github.com/mdarikrayhan/Student-Management-System-In-C) |
+| 2nd year, 1st semester | CSE-2104 Data Structures and Algorithms-I Sessional | [COVID-Vaccine-Management](https://github.com/mdarikrayhan/COVID-Vaccine-Management) |
+| 2nd year, 2nd semester | CSE-2212 Database Management Systems Sessional | [Library-Management-System](https://github.com/mdarikrayhan/Library-Management-System) |
+| 2nd year, 2nd semester | CSE-2214 Data Structures and Algorithms-II Sessional | [Path-Finder](https://github.com/mdarikrayhan/Path-Finder) |
+| 2nd year, 2nd semester | CSE-2218 Advanced Programming Sessional | [E-Tailor](https://github.com/mdarikrayhan/E-Tailor) |
+| 3rd year, 1st semester | CSE-3102 Numerical Analysis Sessional | [Numerical-Analysis-Sessional](https://github.com/mdarikrayhan/Numerical-Analysis-Sessional) |
+| 3rd year, 1st semester | CSE-3104 Software Engineering and Information System Design Sessional | [BAUET-Result-System](https://github.com/mdarikrayhan/BAUET-Result-System) |
+| 3rd year, 1st semester | CSE-3106 Data and Telecommunication Sessional | [Data-and-Telecommunication-Sessional](https://github.com/mdarikrayhan/Data-and-Telecommunication-Sessional) |
+| 3rd year, 1st semester | CSE-3108 Operating System Sessional | [Operating-System-Sessional](https://github.com/mdarikrayhan/Operating-System-Sessional) |
+| 3rd year, 1st semester | CSE-3110 Web Programming Sessional | [Web-Programming-Sessional](https://github.com/mdarikrayhan/Web-Programming-Sessional), [All-Tour-Spot-Bangladesh](https://github.com/mdarikrayhan/All-Tour-Spot-Bangladesh) |
+| 3rd year, 2nd semester | CSE-3216 Digital Image Processing Sessional | [Digital-Image-Processing-Sessional](https://github.com/mdarikrayhan/Digital-Image-Processing-Sessional) |
+| 3rd year, 2nd semester | CSE-3222 Programming with Assembly Language Sessional | [Programming-with-Assembly-Language-Sessional](https://github.com/mdarikrayhan/Programming-with-Assembly-Language-Sessional) |
+| After 3rd year | CSE-3224 Industrial Training | Four weeks at BRACNet (report not public) |
+| 3rd year, 2nd to 4th year, 1st | CSE-3200 and CSE-4100 Integrated Design Project | [IDP-Custom-Android-ROM](https://github.com/mdarikrayhan/IDP-Custom-Android-ROM) |
+| 4th year, 1st semester | CSE-4102 Microprocessors, Microcontrollers and Embedded System Sessional | [Microprocessor-Microcontroller-and-Embedded-System-Sessional](https://github.com/mdarikrayhan/Microprocessor-Microcontroller-and-Embedded-System-Sessional) |
+| 4th year, 2nd semester | CSE-4202 Artificial Intelligence Sessional | [Artificial-Intelligence-Sessional](https://github.com/mdarikrayhan/Artificial-Intelligence-Sessional) |
+| 4th year, 2nd semester | CSE-4206 Computer Graphics Sessional | [Computer-Graphics-Sessional](https://github.com/mdarikrayhan/Computer-Graphics-Sessional) |
+| 4th year, 2nd semester | CSE-4208 Digital Signal Processing Sessional | [Digital-Signal-Processing-Sessional](https://github.com/mdarikrayhan/Digital-Signal-Processing-Sessional) |
+| 4th year, 2nd semester | CSE-4250 Data Mining and Data Warehousing Sessional | [Data-Mining-and-Data-Warehousing-Sessional](https://github.com/mdarikrayhan/Data-Mining-and-Data-Warehousing-Sessional) |
+
+</details>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mdarikrayhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
