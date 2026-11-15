@@ -6,7 +6,7 @@
 
 - 📄 My IEEE papers: [sensor-based true random number generation](https://ieeexplore.ieee.org/document/11172232) (QPAIN 2025) and [gas-optimized blockchain document verification](https://ieeexplore.ieee.org/abstract/document/11662071) (PECCII 2026)
 
-- 🏆 Three-time ICPC Asia Dhaka Regional honorable mention, and problem setter for 8+ BAUET contests. My solutions are in [Competitive-Programming](https://github.com/mdarikrayhan/Competitive-Programming)
+- 🏆 Three-time ICPC Asia Dhaka Regional honorable mention, and problem setter for 8+ BAUET contests, including [Mind Storm 4.0](https://github.com/mdarikrayhan/Mind-Storm-4.0-Editorial-and-Problem-Set)
 
 - 🌐 CV, research and projects at **[mdarikrayhan.com](https://mdarikrayhan.com)**
 
